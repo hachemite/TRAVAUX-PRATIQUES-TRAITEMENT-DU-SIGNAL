@@ -14,6 +14,7 @@ Ce dépôt contient une série de travaux pratiques en traitement du signal ains
 - Analyse temporelle et fréquentielle des filtres RIF
 - Réponses impulsionnelles et étude de la fonction de transfert
 - Exemple de résultat :
+  
   ![Réponse impulsionnelle](Hachem_Squalli_Elhoussaini_N°29_TP1_Compte_rendu/code-1-image/1.png)
 
 ### TP2 - Conversion Analogique-Numérique
@@ -67,4 +68,4 @@ python projet_signal_Hachem_Squalli_Elhoussaini_N29/main.py
 
 ---
 
-🔹 *Projet académique - Licence MIT - 2024*
+🔹 *Projet académique - Licence MIT - 2024/2025*
